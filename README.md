@@ -1,2 +1,3 @@
-# documentacion-educacion-ciberseguridad
-Este repositorio contiene el Manual e Informe Técnico, así como el Manual de Instalación del Proyecto Integrador DESARROLLO DE UNA APLICACIÓN WEB ORIENTADA AL APLRENDIZAJE DE SEGURIDAD INFORMÁTICA
+
+Este repositorio contiene los documentos pertinentes que componen el Proyecto Integrador:
+"DESARROLLO DE UNA APLICACIÓN WEB ORIENTADA AL APLRENDIZAJE DE SEGURIDAD INFORMÁTICA"
